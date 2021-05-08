@@ -1,0 +1,53 @@
+body{
+    padding: 0;
+    /* overflow-x: hidden; */
+}
+
+.img{
+    width: 75%;
+}
+
+#text{
+    margin-top: 5%;
+}
+
+#text1{
+    margin-top: 5%;
+    margin-bottom: -6%;
+}
+
+.bgc{
+    background-color: skyblue;
+}
+
+.imagess{
+    margin-top: 10%;
+    margin-left: 8%;
+    width:50%;
+    height:70%;
+}
+
+.headings{
+    margin-top: 2%;
+    margin-left: 10%;
+    text-decoration: none;
+}
+
+footer{
+    margin-top: 1%;
+}
+
+.cards{
+    margin:7% 25% 3% 26%;
+    background-color: skyblue;
+}
+
+.crd{
+    margin-bottom: 7%;
+}
+
+.color{
+    color: blue;
+}
+
+
